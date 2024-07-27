@@ -44,3 +44,16 @@ A element is leader if it is greater or equal to the max elements on the right. 
 input: n=6 arr[] = {12, 15, 4, 3, 5, 2}
 output: 15 5 2
 ```
+
+## Find 2nd Largest element: (Easy)
+
+Find the second largest element in array  
+```
+input: n=6 arr[] = {12, 15, 4, 3, 5, 2}
+output: 12
+```
+
+Code
+```
+```
+
