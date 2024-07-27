@@ -1,5 +1,5 @@
 # DSA using ABAP:
-## Missing Number In Array:
+## Missing Number In Array: (Easy)
 Given an array of size n-1 such that it only contains distinct integers in the range of 1 to n. Return the missing element.
 >Using sum of N natural numbers
 
@@ -12,7 +12,7 @@ Code:
 
 ```
 
-## Duplicates in Array
+## Duplicates in Array: (Easy)
 Find all the duplicate numbers in an array given-  
 array of size n and elements in range 0 - (n-1).
 
@@ -36,3 +36,11 @@ Code:
 
 ```
 
+## Find Leaders in Array: (Easy)
+
+Find all the leaders in an array.  
+A element is leader if it is greater or equal to the max elements on the right. Rightmost element is always leader.  
+```
+input: n=6 arr[] = {12, 15, 4, 3, 5, 2}
+output: 15 5 2
+```
