@@ -1,4 +1,8 @@
 # DSA using ABAP:
+
+Let's start journey with Arrays
+1. [Easy](Arrays-easy.md)
+
 ## Missing Number In Array: (Easy)
 Given an array of size n-1 such that it only contains distinct integers in the range of 1 to n. Return the missing element.
 >Using sum of N natural numbers
