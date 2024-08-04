@@ -7,7 +7,7 @@ title: OOPS Basics
 Ways to style or structure your code is called as programming paradigm.  
 
 There are different ways:  
-1. [Imperative Programming]()
+1. [Imperative Programming](#imperative-programming)
 2. [Declarative Programming]()
 3. [Procedural Programming]()
 4. [Functional Programming]()
