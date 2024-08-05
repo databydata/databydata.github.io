@@ -151,6 +151,8 @@ In OOPS terms, we call this blueprint 'Class,' and for every class we create obj
 Objects are noting but instances of a class, so in our example we have a blueprint called 'Class Car' and each car will be an object.
 
 ```
+    #pseudo-code:
+
     Class Car()
     {
 
