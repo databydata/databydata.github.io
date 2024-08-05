@@ -3,10 +3,10 @@ layout: page
 title: Structure Of Class
 ---
 
-Here we will discuss basic structure a class which will setup the initial pace of our disussion.  
+Here we will discuss the basic structure a class which will setup the initial pace of our discussion.  
 
-Classes in abap is created into two parts.  
-First we provide definition and then we provide implementation.
+Classes in abap are created into two parts.  
+First we provide a definition and then we provide an implementation.
 
 ```
     CLASS NAME DEFINITION.
@@ -20,5 +20,4 @@ First we provide definition and then we provide implementation.
     ENDCLASS.
 ```
 
-
-
+This is a structure for a class. In the following sections, we will break down each part and discuss it in detail.
