@@ -188,4 +188,4 @@ Here we have depicted a very basic class which looks like procedural code above,
 
 In further sections we will discuss on further concepts of oops and how memory block is allocated for each object.  
 
-> [Next Section >](oops-basics.md)
+> [Next Section >](structure-of-class.md)
