@@ -104,9 +104,9 @@ Functional programming is based on a declarative approach where we try to create
 
 Pure functions are functions that produce no side effects.  
 
-A side effect is when we mutate values outside the scope, meaning if the functional is causing any effect other than reading its arguments and returning values, it is said to have side effects.  
+A side effect is when we mutate values outside the scope, meaning if the function is causing any effect other than reading its arguments and returning values, it is said to have side effects.  
 
-For example, we are fetching color and brand of car via API based on key
+For example, we are fetching color and brand of car via API based on a key
 ```
     #pseudo-code: 
     
@@ -135,14 +135,14 @@ Here functions are not as pure because they are causing some side effects.
 
 Side effects are not bad but, unexpected side effects should be avoided as they may lead to unwanted bugs.
 
-Unexpected side effects mean, lets say you make an HTTP request in sum of two numbers function, so this should be avoided.  
+Unexpected side effects mean, let's say you make an HTTP request in sum of two numbers function, so this should be avoided.  
 
-### Object-Oriented Programming
-Taking the example of a car showroom again, now you have a larger number of cars, and you also want to display all the features of cars instead of just color and brand.  
+### Object-oriented Programming
+Taking the example of a car showroom again, now you have a larger number of cars, and you also want to display all the features of the cars instead of just color and brand.  
 
-Going with the procedural way and calling methods again and aging will become hard to manage so we need to seperate code for each car somehow.  
+Going with the procedural way and calling methods again and aging will become hard to manage, so we need to separate code for each car somehow.  
 
-Here OOPS comes into picture.  
+Here OOPS comes into the picture.  
 
 With OOPS, we can create a blueprint of methods and attributes that will help us manage all cars.  
 
@@ -182,7 +182,7 @@ Objects are noting but instances of a class, so in our example we have a bluepri
     car1.printTyreBrand('MRF');
 ```
 
-Here we have depicted a very basic class which looks like procedural code above but in further sections we will present more features of oops which will clarify the reason of its most widely used programming paradigm.
+Here we have depicted a very basic class which looks like procedural code above, but in further sections we will present more features of oops which will clarify the reason of its most widely used programming paradigm.
 
 In further sections we will discuss on further concepts of oops and how memory block is allocated for each object.  
 
