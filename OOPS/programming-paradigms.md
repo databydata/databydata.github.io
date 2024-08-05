@@ -10,7 +10,7 @@ There are different ways:
 2. [Declarative Programming](#declarative-programming)
 3. [Procedural Programming](#procedural-programming)
 4. [Functional Programming](#funational-programming)
-5. [Object-Oriented Programming]()
+5. [Object-Oriented Programming](#object-oriented-programming))
 
 ### Imperative Programming
 Imperative programming focuses on the 'HOW' part of programming, which means how the code will be processed by the computer.  
