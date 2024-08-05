@@ -5,8 +5,8 @@ title: OOPS Principles
 
 Four pillars of object-oriented programming are:
 1. [Abstraction](#abstraction)
-2. [Encapsulation]()
-3. [Inheritance]()
+2. [Encapsulation](#encapsulation)
+3. [Inheritance](#inheritance)
 4. [Polymorphism]()
 
 ### Abstraction
@@ -20,8 +20,14 @@ Companies abstracted this and installed a push button to start the engine, and t
 
 This is what we try to achieve in programming.
 
-Abstraction is done for data and process both.
 
-#### Data Abstraction
+### Encapsulation
+Encapsulation is something in which we capsule the data memebers and provide methods for their access.
+
+It increases security and avoids mishandling of data members(attributes).
+
+For encapsulation we create getter and setter methods for each data members.
+
+### Inheritance
 
 
