@@ -58,3 +58,5 @@ So, here all the qualities are its attributes and each action is its methods. It
 ```
 
 Here we have created a basic class, but there are certain principles that must be followed to create a class. In the following sections, we will break down each part and discuss it in detail.
+
+> [Next Section >](oops.principles.md)
