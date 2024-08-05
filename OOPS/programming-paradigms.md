@@ -9,7 +9,7 @@ There are different ways:
 1. [Imperative Programming](#imperative-programming)
 2. [Declarative Programming](#declarative-programming)
 3. [Procedural Programming](#procedural-programming)
-4. [Functional Programming](#funational-programming)
+4. [Functional Programming](#functional-programming)
 5. [Object-Oriented Programming](#object-oriented-programming))
 
 ### Imperative Programming
@@ -99,7 +99,7 @@ Instead of this we create functions and pass values to print the data.
 
 Here we have eleminated repetative code and created functions.  
 
-### Funational Programming
+### Functional Programming
 Functional programming is based on a declarative approach where we try to create functions that are pure and follow strict control flow.  
 
 Pure functions are functions that produce no side effects.  
