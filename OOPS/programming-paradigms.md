@@ -3,8 +3,7 @@ layout: page
 title: Programming Paradigm
 ---
 
-## Programming Paradigms
-Ways to style or structure your code is called as programming paradigm.  
+Programming paradigms are ways to style or structure your code.  
 
 There are different ways:  
 1. [Imperative Programming](#imperative-programming)
