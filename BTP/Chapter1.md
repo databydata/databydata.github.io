@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BTP Account
+title: BTP Introduction
 ---
 
 ## 1. Introduction
