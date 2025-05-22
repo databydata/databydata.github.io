@@ -3,10 +3,9 @@ layout: page
 title: Master Data in SAP TM
 ---
 
-SAP TM supports various transportation processes for different business needs.
-These process can be used for both domestic and international shipping.
+In SAP TM, master data is the foundation for all planning and execution processes. Without correct master data, transportation cannot be plnned efficiently.
 
-### 2.1 Main process in SAP TM
+### 2.1 Important master data objects:
 1. **Order Management:** 
 - Sales order or purchase order are recorded in system.
 - These orders form the basis for transportation requirements.
