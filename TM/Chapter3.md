@@ -26,21 +26,30 @@ In SAP TM, master data is the foundation for all planning and execution processe
     Can be viewed in TM web ui under Master Data > Locations.
 ```
 
-3. **Freight Orders:** 
-- Transportation activities are documented in freight orders.
-- These contain info about route, time, vehicle, and carrier.
+3. **Transportation Resource:** 
+- Physical resources like trucks, trailers, containers.
+- Required for capacity planning and freight order assignment.
 
-4. **Shipment tracking:**
-- SAP TM allows real-time monitorin of shipments.
-- Notifications can be triggered in case of delays.
+```
+    Where to create: TM WEB UI
+    Master Data > Resource Management > Create Vechicle resource.
+```
 
-5. **Freight cost settlement:**
-- The incurred transportation cost are calculated and checked.
-- Then the settlement is done with the carrier or internally.
+4. **Product:**
+- The goods being transported.
+- Must have relevent transportation details (weight, volumne, dimensions).
 
-6. **Analytics and reporting:**
-- Companies use SAP TM to analyze KPIs like 
+```
+    Tcode: MM01 (Create)/ MM02 (Change)
+    System: S/4HANA
+    Note: Product master gets transferred to TM via integration
+```
 
-<br>
+5. **Transportation Network:**
+- Defines which locations are connected via which route and transportation modes..
+- Includes transit duration, distance, and modes like Road, Rail, Sea, etc.
 
-SAP TM covers the complete transportation process - from order capturing to planning to settlement.
+```
+    Where to create: TM WEB UI
+    Master Data > Transportation Network
+```
