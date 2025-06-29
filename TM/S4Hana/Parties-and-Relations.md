@@ -70,5 +70,4 @@ Freight forwarders are businesses that help arrange carriers for transportation.
 
 ![Diagram](./images/diagram5.png)
 
-Here consignee will raise a PO(Purchase Order) and it will come to the consignor as SO(Sales Order) as customer is buying goods and consignor is selling the goods. Also the freight forwarder will be selling services and we will be buying services so we will raise a PO for them.
-
+Here consignee will raise a PO(Purchase Order) and it will come to the consignor as SO(Sales Order) as customer is buying goods and consignor is selling the goods. Also the freight forwarder will be selling services and we will be buying services so we will raise a PO for them. 
