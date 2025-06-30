@@ -11,7 +11,7 @@ title: Products & Architecture
 
 ### SAP LE
 - SAP Logistic Execution which contains a Transportation Solution.
-- It has two parts: SAP LE-TRA, SAP TM
+- It has two parts: Warehouse Management, SAP LE-TRA
 - LE-TRA will be discontinued in 2030 and SAP TM will be used in near future
 
 ***LE-TRA** also known as shipment module
