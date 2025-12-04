@@ -1,5 +1,14 @@
 /* --- Custom Styles for the Landing Page Hero Section --- */
 
+$brand-color:    #2a7ae2; 
+$background-color: #111111; 
+$text-color:     #f0f0f0; 
+
+// Your custom CSS starts here...
+.resume-section {
+  padding-bottom: 20px;
+}
+
 .hero-section {
     padding: 60px 0; /* Vertical padding */
     text-align: center;
