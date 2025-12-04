@@ -1,0 +1,33 @@
+# _config.yml
+
+# Site Identity
+title: Data By Data | Vaibhav Singh
+author:
+  name: Vaibhav Singh
+  email: vaibhavsingh1008@gmail.com
+description: >-
+  A resource for hands-on technical consulting tutorials, insights on SAP TM, and professional portfolio.
+
+# Jekyll Theme Settings (Dark Minima)
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+minima:
+  skin: dark # Sets the dark color scheme
+
+# Header Navigation Pages (Must match your file names)
+header_pages:
+  - resume.html
+  # Include your existing tutorial page if you have it
+  # - Arrays-easy.md 
+  
+# Hide excerpts on homepage
+show_excerpts: false
+
+# Build Settings
+# Exclude the _site folder from Git tracking if you haven't added it to .gitignore
+exclude:
+  - 'vendor'
