@@ -10,7 +10,7 @@ description: >-
 
 # Jekyll Theme Settings (Dark Minima)
 # remote_theme: jekyll/minima
-theme: minima
+theme: jekyll/minima@3cdd14d
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
