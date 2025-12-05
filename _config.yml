@@ -16,6 +16,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
 minima:
   skin: dark # Sets the dark color scheme
 
